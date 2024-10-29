@@ -14,8 +14,8 @@ namespace MyDictionary
 
             MyDictionary<int, string> list = new MyDictionary<int, string>();
             list.Add(1, "Ömer");
-            list.Add(1, "Sude Nur");
-            list.Add(2, "Sude Nur");
+            list.Add(1, "Semih");
+            list.Add(2, "Semih");
 
             //Aynı key değerine sahip 2 veri var ise hata verir. Ekleme Yapmaz!
 
